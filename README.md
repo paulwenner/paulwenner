@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on a SaaS time series forecasting platform for supply chain optimization
 - 👯 We are hiring Frontend Engineers, Backend Engineers and Data Engineers @ Crateflow
 - 📫 How to reach me: paul@paulwenner.de
-- [crateflow.ai]([http://example.com](https://www.crateflow.ai/))
+- [crateflow.ai](http://example.com](https://www.crateflow.ai/))
