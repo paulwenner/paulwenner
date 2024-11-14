@@ -1,4 +1,4 @@
-![[github-header-image](https://media.licdn.com/dms/image/D4D16AQFYrZRLJFKAhw/profile-displaybackgroundimage-shrink_350_1400/0/1719865363512?e=1736985600&v=beta&t=1J0CnLljlzSH9B5k-x9vAvr-2c8U0wwUDZzdpnC2jUc)](https://media.licdn.com/dms/image/D4D16AQFYrZRLJFKAhw/profile-displaybackgroundimage-shrink_350_1400/0/1719865363512?e=1736985600&v=beta&t=1J0CnLljlzSH9B5k-x9vAvr-2c8U0wwUDZzdpnC2jUc)
+![GitHub Header Image](assets/logo.jpeg)
 
 ### Hi there 👋
 
